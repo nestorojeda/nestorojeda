@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# My name is Néstor, and i'm a (not yet) computer science engineer based in the Canary Islands. My main area of specialization is software engineering, but i'm very interested in computer vision and machine learning.
 <!--
 **nestorojeda/nestorojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
