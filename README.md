@@ -3,4 +3,4 @@ My name is Néstor, and I'm a computer science engineer based in the Canary Isla
 As a professional, most of my experience has been working as a Full Stack Developer, using PHP and Vue.js, but I'm also profficient at Python, which I used on my degree's thesis.
 
 
-![image]([https://www.codewars.com/users/uyncis/badges/large](https://www.codewars.com/users/nestorojeda/badges/large))
+![image](https://www.codewars.com/users/nestorojeda/badges/large)
