@@ -4,3 +4,5 @@ As a professional, most of my experience has been working as a Full Stack Develo
 
 
 ![image](https://www.codewars.com/users/nestorojeda/badges/large)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nestorojeda&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
